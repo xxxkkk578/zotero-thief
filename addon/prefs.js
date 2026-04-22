@@ -1,0 +1,10 @@
+pref("enable", true);
+pref("input", "This is input");
+pref("language", "zh-CN");
+pref("novelFontSize", 16);
+pref("bookStoragePath", "");
+pref("selectedNovelPath", "");
+pref("shortcutForward", "w");
+pref("shortcutBackward", "q");
+pref("shortcutBoss", "e");
+pref("shortcutShow", "r");

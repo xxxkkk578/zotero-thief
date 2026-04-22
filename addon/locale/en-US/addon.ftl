@@ -1,0 +1,11 @@
+startup-begin = zotero-thief is loading
+startup-finish = zotero-thief is ready
+menuitem-label = Read as Novel
+menupopup-label = zotero-thief menu
+menuitem-submenulabel = zotero-thief submenu
+menuitem-filemenulabel = zotero-thief file menu
+prefs-title = zotero-thief
+prefs-table-title = Title
+prefs-table-detail = Detail
+tabpanel-lib-tab-label = Lib Tab
+tabpanel-reader-tab-label = Reader Tab

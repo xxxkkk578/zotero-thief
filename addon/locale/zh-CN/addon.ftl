@@ -1,0 +1,11 @@
+startup-begin = zotero-thief 正在加载
+startup-finish = zotero-thief 已就绪
+menuitem-label = 看小说
+menupopup-label = zotero-thief 菜单
+menuitem-submenulabel = zotero-thief 子菜单
+menuitem-filemenulabel = zotero-thief 文件菜单
+prefs-title = zotero-thief
+prefs-table-title = 标题
+prefs-table-detail = 详情
+tabpanel-lib-tab-label = 库标签
+tabpanel-reader-tab-label = 阅读器标签
